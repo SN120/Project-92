@@ -1,0 +1,49 @@
+.div_login{
+    background-color: rgb(219, 55, 55);
+	padding: 10px;
+    border-radius: 15px;
+    border-color: white;
+    border-width: 10px;
+    border-style:ridge;
+    width: 50%;
+    margin-left: 25%;
+    color: white;
+}
+
+body{
+    text-align: center ;
+    background-color: rgb(219, 55, 55);
+    color: white;
+}
+
+#horizontal{
+    border-top: 10px ridge white;
+    width: 75%;
+    border-style:ridge;
+}
+#login_btn{
+    width: 20%;
+    background-color: rgb(219, 55, 55);
+    color: white;
+    border-color: white;
+    border-style:groove;
+    border-width: 10px;
+    font-size: 25px;
+}
+#output{
+    background-color: white;
+    border-radius: 10px;
+    border-top: 10px solid #aa4465;
+    padding: 10px;
+    float: none;
+    text-align: center;
+    width: 75%;
+}
+#sendNumber{
+    width: 75%;
+}
+#output{
+    color: rgb(219, 55, 55);
+    text-align: left;
+    font-size: 20px;
+}
